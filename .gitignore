@@ -1,0 +1,7 @@
+# Ignore local data
+data/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+.DS_Store
